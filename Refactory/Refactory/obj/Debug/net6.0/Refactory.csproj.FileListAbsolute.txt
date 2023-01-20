@@ -1,0 +1,15 @@
+C:\WK\Source\Creation\Refactory\Refactory\Refactory\bin\Debug\net6.0\Refactory.exe
+C:\WK\Source\Creation\Refactory\Refactory\Refactory\bin\Debug\net6.0\Refactory.deps.json
+C:\WK\Source\Creation\Refactory\Refactory\Refactory\bin\Debug\net6.0\Refactory.runtimeconfig.json
+C:\WK\Source\Creation\Refactory\Refactory\Refactory\bin\Debug\net6.0\Refactory.dll
+C:\WK\Source\Creation\Refactory\Refactory\Refactory\bin\Debug\net6.0\Refactory.pdb
+C:\WK\Source\Creation\Refactory\Refactory\Refactory\obj\Debug\net6.0\Refactory.csproj.AssemblyReference.cache
+C:\WK\Source\Creation\Refactory\Refactory\Refactory\obj\Debug\net6.0\Refactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\WK\Source\Creation\Refactory\Refactory\Refactory\obj\Debug\net6.0\Refactory.AssemblyInfoInputs.cache
+C:\WK\Source\Creation\Refactory\Refactory\Refactory\obj\Debug\net6.0\Refactory.AssemblyInfo.cs
+C:\WK\Source\Creation\Refactory\Refactory\Refactory\obj\Debug\net6.0\Refactory.csproj.CoreCompileInputs.cache
+C:\WK\Source\Creation\Refactory\Refactory\Refactory\obj\Debug\net6.0\Refactory.dll
+C:\WK\Source\Creation\Refactory\Refactory\Refactory\obj\Debug\net6.0\refint\Refactory.dll
+C:\WK\Source\Creation\Refactory\Refactory\Refactory\obj\Debug\net6.0\Refactory.pdb
+C:\WK\Source\Creation\Refactory\Refactory\Refactory\obj\Debug\net6.0\Refactory.genruntimeconfig.cache
+C:\WK\Source\Creation\Refactory\Refactory\Refactory\obj\Debug\net6.0\ref\Refactory.dll
