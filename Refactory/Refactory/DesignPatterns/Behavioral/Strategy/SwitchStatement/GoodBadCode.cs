@@ -1,5 +1,5 @@
-﻿using Refactory.DesignPatterns.Strategy.SwitchStatement.Bad;
-using Refactory.DesignPatterns.Strategy.SwitchStatement.Good.Models.RoomShapes;
+﻿using Refactory.DesignPatterns.Behavioral.Strategy.SwitchStatement.Bad;
+using Refactory.DesignPatterns.Behavioral.Strategy.SwitchStatement.Good.Models.RoomShapes;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,7 +8,7 @@ using System.Reflection.Metadata;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Refactory.DesignPatterns.Strategy.SwitchStatement
+namespace Refactory.DesignPatterns.Behavioral.Strategy.SwitchStatement
 {
     public class GoodBadCode
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Refactory.DesignPatterns.Strategy.SwitchStatement.Bad
+namespace Refactory.DesignPatterns.Behavioral.Strategy.SwitchStatement.Bad
 {
     public enum Shape
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Refactory.DesignPatterns.Strategy.SwitchStatement.Good.Models.RoomShapes
+namespace Refactory.DesignPatterns.Behavioral.Strategy.SwitchStatement.Good.Models.RoomShapes
 {
     public class Circle : IRoomShape
     {

@@ -1,7 +1,7 @@
 using System.Security.Cryptography.X509Certificates;
-using Refactory.DesignPatterns.Strategy.SwitchStatement;
-using Refactory.DesignPatterns.Strategy.SwitchStatement.Bad;
-using Refactory.DesignPatterns.Strategy.SwitchStatement.Good.Models.RoomShapes;
+using Refactory.DesignPatterns.Behavioral.Strategy.SwitchStatement;
+using Refactory.DesignPatterns.Behavioral.Strategy.SwitchStatement.Bad;
+using Refactory.DesignPatterns.Behavioral.Strategy.SwitchStatement.Good.Models.RoomShapes;
 
 namespace RefactoryTests
 {
